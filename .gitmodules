@@ -1,6 +1,6 @@
 [submodule "Setup"]
 	path = Setup
-	url = ./Setup/
+	url = https://github.com/ichbinkenny/redefined-destruction-setup.git
 [submodule "Bluetooth"]
 	path = Bluetooth
 	url = ./Bluetooth/
