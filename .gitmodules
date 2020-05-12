@@ -1,0 +1,6 @@
+[submodule "Setup"]
+	path = Setup
+	url = ./Setup/
+[submodule "Bluetooth"]
+	path = Bluetooth
+	url = ./Bluetooth/
