@@ -6,4 +6,4 @@
 	url = https://github.com/ichbinkenny/redefined-destruction-bluetooth
 [submodule "NFC"]
 	path = NFC
-	url = ./NFC
+	url = https://github.com/ichbinkenny/redefined-destruction-nfc
