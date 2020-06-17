@@ -7,3 +7,6 @@
 [submodule "NFC"]
 	path = NFC
 	url = https://github.com/ichbinkenny/redefined-destruction-nfc
+[submodule "Networking"]
+	path = Networking
+	url = https://github.com/ichbinkenny/redefined-destruction-networking.git
