@@ -10,3 +10,6 @@
 [submodule "Networking"]
 	path = Networking
 	url = https://github.com/ichbinkenny/redefined-destruction-networking.git
+[submodule "Movement"]
+	path = Movement
+	url = https://github.com/ichbinkenny/redefined-destruction-movement.git
